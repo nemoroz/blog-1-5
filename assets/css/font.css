@@ -1,0 +1,14 @@
+@font-face {
+    font-family: ttlakes-bold;
+    src: url(../fonts/TTLakes-Bold.ttf);
+}
+
+@font-face {
+    font-family: ttlakes-medium;
+    src: url(../fonts/TTLakes-Medium.ttf);
+}
+
+@font-face {
+    font-family: ttlakes-regular;
+    src: url(../fonts/TTLakes-Regular.ttf) format('truetype');
+}
